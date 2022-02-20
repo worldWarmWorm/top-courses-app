@@ -1,0 +1,1 @@
+export const REVIEW_NOT_FOUND = 'Review with id like that isn\'t found.';
